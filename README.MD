@@ -7,6 +7,7 @@ Configuracion entorno para C#
 Menejo de números en c#
 
 Manejo de Caracteres en C#
+
 **RESPUESTA EJERCICIO 4**
 1. ¿String es una tipo por valor o un tipo por referencia?
 - string es un tipo de referencia, se definen los operadores de igualdad == y != para comparar los valores de los objetos string, no las referencias.
@@ -21,7 +22,7 @@ Manejo de Caracteres en C#
     - @"c:\Docs\Source\a.txt"  // en vez de "c:\\\Docs\\Source\\a.txt"
 - Para incluir una comilla doble en una cadena @-quoted, doblela:
     - @"""Ahoy!"" cried the captain." // "Ahoy!" cried the captain.
-    
+
 **Autor**
 ##_Jorge Juan Gudiño_
 
