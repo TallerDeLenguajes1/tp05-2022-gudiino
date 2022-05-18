@@ -17,5 +17,3 @@ Para incluir una comilla doble en una cadena @-quoted, doblela:
 @"""Ahoy!"" cried the captain." // "Ahoy!" cried the captain.
 **Autor**
 ##_Jorge Juan Gudiño_
-
-
